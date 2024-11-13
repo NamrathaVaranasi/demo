@@ -5,3 +5,4 @@ Adding new line.
 New line to test diff tool functionality.
 
 This update will cause trouble.
+Adding line for stash.
